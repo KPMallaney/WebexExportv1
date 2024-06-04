@@ -1,7 +1,7 @@
 # WebexExportv1
 Used to export Webex rooms
 
-Must be using atleast Python version 3.9
+Must be using Python version 3.9 or greater.
 
 Webex Token: https://developer.webex.com/docs/getting-started
 
